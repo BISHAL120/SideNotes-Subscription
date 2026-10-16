@@ -1,0 +1,10 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+.playwright-mcp/
+.env*
+!.env.example
+.env
